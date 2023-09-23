@@ -1,4 +1,4 @@
 # Portfolio website
 Custom portfolio built using HTML,CSS and Vanilla JS <img src="https://media.tenor.com/CrWHpzxIZYEAAAAC/cat-typing-gif.gif" height="50" />
 
-You can find the website here [link](https://github.com/rahul0x00/Portfolio/)
+You can find the website here [link](https://rahul0x00.github.io/Portfolio/)
